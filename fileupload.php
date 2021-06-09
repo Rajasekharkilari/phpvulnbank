@@ -10,7 +10,7 @@
          <input type = "file" name = "image" />
          <input type = "submit"/>
 			
-    
+    /////sekhar
 			
       </form>
    <a href='profile.php'>profile</a>
