@@ -33,6 +33,7 @@ echo "<!-- <br><br>Your feedback:$row[6] -->";
 }
 
 else
+	/////sekhar
 	
 {
 header('Location:login.php');
